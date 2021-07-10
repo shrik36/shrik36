@@ -10,11 +10,14 @@
 
 
 
-### Languages
+### Tech Stack
 
 ![C%23](https://img.shields.io/badge/-C%23-000?&logo=C%20sharp&logoColor=68217A)
-
-
+![Java](https://img.shields.io/badge/java-%23ED8B00?&logo=java-%23ED8B00.svg&logoColor=68217A)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?&logo=.NET-5C2D91&logoColor=68217A)
+![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91?&logo=VisualStudio-5C2D91&logoColor=68217A)
+![MySQL](https://img.shields.io/badge/mysql-%2300f?&logo=mysql-%2300f&logoColor=68217A)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e?&logo=sqlite-%2307405e&logoColor=68217A)
 
 ### 📈 Stats
 
