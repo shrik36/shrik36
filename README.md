@@ -8,6 +8,27 @@
     - WPF application development, multi thread, XAML designs.
     - Web and API development.  
 
+
+
+### Languages
+
+![C%23](https://img.shields.io/badge/-C%23-000?&logo=C%20sharp&logoColor=68217A)
+
+
+
+### Stats
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shrik36&show_icons=true&count_private=true&theme=dark)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrik36&layout=compact&count_private=true&theme=dark)](https://github.com/shrik36/github-readme-stats)
+
+
+
+< - This page is still at work. -> 
+
+
 <!--
 **shrik36/shrik36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,4 +42,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shrik36)](https://github.com/shrik36/github-readme-stats)
+
+
 -->
