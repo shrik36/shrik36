@@ -22,8 +22,7 @@
 ### 📈 Stats
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shrik36&show_icons=true&count_private=true&theme=dark)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shrik36&show_icons=true&count_private=true&theme=dark) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrik36&layout=compact&count_private=true&theme=dark)](https://github.com/shrik36/github-readme-stats)
 
