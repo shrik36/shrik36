@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on .NET technologies relatively developing SAAS and IoT software for enterprises.
 - 🌱 I’m currently learning Azure and Data analytics.
 - 👯 I’m looking to opprtunities on, 
-    - industrial automations, IoT systems, PLC integrations, HMI systems and simulators.
+    - Industrial automations, IoT systems, PLC integrations, HMI systems and simulators.
     - WPF application development, multi thread, XAML designs.
     - Web and API development.  
 
